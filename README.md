@@ -72,7 +72,7 @@ timestamp, metric1, metric2, metric3
 ...
 ```
 
- Note*: Since the original data cannot be disclosed, the node_data folder contains generated fake data
+ Note*: Since the original data cannot be disclosed, the node_data folder contains generated fake data.
 
 ## Installation Steps
 
